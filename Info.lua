@@ -7,8 +7,10 @@ return {
     LrToolkitIdentifier = "com.ethan.desqueeze",
     LrPluginName        = "Desqueeze",
 
+    LrInitPlugin = "LrInitPlugin.lua",
+
     LrLibraryMenuItems = {
-        title = "Desqueeze",
+        title = "desqueeze",
         file  = "desqueeze.lua",
     },
 }
